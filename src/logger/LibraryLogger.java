@@ -4,8 +4,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class LibraryLogger {
-    // Create a Logger
-
     public Logger getLogger() { return Logger.getLogger(LibraryLogger.class.getName()); }
 
     public void logInfo(String logMessage) {

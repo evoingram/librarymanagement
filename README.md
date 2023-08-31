@@ -19,30 +19,30 @@ This project is in Java since this week was spent reviewing fundamental Java con
 
 These are the concepts I reviewed/utilized from week 1 that this project needs to cover.
 
-- OOP principles - encapsulation, polymorphism, abstraction, inheritance
-- objects, classes, and instances
-- access modifiers
-- constructors
-- overloading & overriding
-- this keyword
-- static members
-- data hiding & encapsulation
-- inheritance classes
-- extends keyword
-- method overriding
-- super keyword usage
-- constructor chaining
-- interfaces
-- implements keyword
-- multiple interface implementation
-- default methods
-- marker interfaces
-- collections -- List, Set, Map, ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap
-- iteration techniques for collections
-- exception handling
-- try catch finally
-- exception hierarchy - checked/unchecked
-- throws clause
+- [ ] OOP principles - encapsulation, polymorphism, abstraction, inheritance
+- [X] objects, classes, and instances
+- [X] access modifiers
+- [X] constructors
+- [X] overloading & overriding
+- [X] this keyword
+- [X] static members
+- [ ] data hiding & encapsulation
+- [X] inheritance classes
+- [X] extends keyword
+- [X] method overriding
+- [X] super keyword usage
+- [ ] constructor chaining
+- [X] interfaces
+- [X] implements keyword
+- [X] multiple interface implementation
+- [X] default methods
+- [X] marker interfaces
+- [ ] collections -- List, Set, Map, ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap
+- [ ] iteration techniques for collections
+- [X] exception handling
+- [X] try catch finally
+- [ ] exception hierarchy - checked/unchecked (RuntimeException)
+- [X] throws clause
 
 
 ## Plan
@@ -113,3 +113,10 @@ Work In Progress.
 - Tags
   - Properties
   - Methods
+
+- interface LibraryActions
+  - check out book
+  - return book
+  - add late fine
+  - reduce late fine
+  - pay fine
