@@ -5,7 +5,7 @@ import logger.*;
 
 import java.util.*;
 
-public class Book {
+public class Book extends Publication {
     UUID bookId;
     String title;
     List<String> authors;
@@ -18,6 +18,7 @@ public class Book {
     List<Formats> formats;
 
     public Book(
+            String type,
             UUID bookId,
             String title,
             List<String> authors,
@@ -29,6 +30,7 @@ public class Book {
             List<Tags> tags,
             List<Formats> formats
     ) {
+        super(type);
         this.bookId = bookId;
         this.title = title;
         this.authors = authors;
