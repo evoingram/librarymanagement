@@ -1,6 +1,6 @@
 package library;
 
-enum Genres {
+public enum Genres {
     NONFICTION,
     FICTION,
     ROMANCE,

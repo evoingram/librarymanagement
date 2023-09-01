@@ -1,6 +1,6 @@
 package library;
 
-enum Formats {
+public enum Formats {
     AUDIOBOOK,
     PAPERBACK,
     HARDBACK,

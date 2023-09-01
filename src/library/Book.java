@@ -5,7 +5,7 @@ import logger.*;
 
 import java.util.*;
 
-public class Book extends Publication {
+public class Book extends Publication implements Comparable<Book> {
     UUID bookId;
     String title;
     List<String> authors;
@@ -199,5 +199,10 @@ public class Book extends Publication {
                 this.authors.remove(author);
             }
         }
+    }
+
+    @Override
+    public int compareTo(Book otherBook) {
+        return this.getTitle().compareTo(otherBook.getTitle());
     }
 }

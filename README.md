@@ -43,6 +43,7 @@ These are the concepts I reviewed/utilized from week 1 that this project needs t
 - [X] try catch finally
 - [X] exception hierarchy - checked/unchecked (RuntimeException)
 - [X] throws clause
+- [ ] clean up
 
 
 ## Plan
