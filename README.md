@@ -12,7 +12,7 @@ As a brief background, I used ChatGPT to come up with a 20-week promotion/improv
 
 Combine your learning to work on a larger coding project that incorporates the concepts from the week, such as building a simple library management system or a basic e-commerce platform.
 
-This project is in Java since this week was spent reviewing fundamental Java concepts.
+This project is in Java since this week was spent reviewing fundamental Java concepts.  It is only intended to review concepts, not intended to be a fully finished, polished project.
 
 
 ## Concepts to Cover
