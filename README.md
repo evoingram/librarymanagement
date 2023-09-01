@@ -19,19 +19,19 @@ This project is in Java since this week was spent reviewing fundamental Java con
 
 These are the concepts I reviewed/utilized from week 1 that this project needs to cover.
 
-- [ ] OOP principles - encapsulation, polymorphism, abstraction, inheritance
+- [X] OOP principles - encapsulation, polymorphism, abstraction, inheritance
 - [X] objects, classes, and instances
 - [X] access modifiers
 - [X] constructors
 - [X] overloading & overriding
 - [X] this keyword
 - [X] static members
-- [ ] data hiding & encapsulation
+- [X] data hiding & encapsulation
 - [X] inheritance classes
 - [X] extends keyword
 - [X] method overriding
 - [X] super keyword usage
-- [ ] constructor chaining
+- [X] constructor chaining
 - [X] interfaces
 - [X] implements keyword
 - [X] multiple interface implementation
@@ -41,8 +41,9 @@ These are the concepts I reviewed/utilized from week 1 that this project needs t
 - [ ] iteration techniques for collections
 - [X] exception handling
 - [X] try catch finally
-- [ ] exception hierarchy - checked/unchecked (RuntimeException)
+- [X] exception hierarchy - checked/unchecked (RuntimeException)
 - [X] throws clause
+- [ ] clean up
 
 
 ## Plan
